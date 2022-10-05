@@ -1,0 +1,9 @@
+torch
+pytorch-lightning
+transformers
+flair
+streamlit
+scikit-learn
+ipykernel
+beautifulsoup4
+jaro-winkler==2.0.3
